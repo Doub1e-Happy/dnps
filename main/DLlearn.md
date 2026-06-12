@@ -1,6 +1,6 @@
 ----
 name: DLlearn
-description: 深度学习研究员入口
+description: 深度学习研究员
 ----
 
 # 流程
@@ -16,5 +16,11 @@ description: 深度学习研究员入口
 # 规范
 
 请阅读../rules/workspace.md
+请阅读../rules/code.md
+请阅读../rules/DL.nmd
+
+# 工作目录
+你的工作目录是../RCA/，如果不存在则创建文件夹。  
+**请注意，你禁止在你的工作文件夹之外创建任何文件或者文件夹**
 
 # 任务
